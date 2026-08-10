@@ -1,0 +1,32 @@
+{
+  "name": "1997 Collection #181",
+  "description": "1997 Unique NFT Collection",
+  "image": "https://SHAONIAN888.github.io/collection1997-nfts/images/181.jpg",
+  "external_url": "https://SHAONIAN888.github.io/collection1997-nfts",
+  "attributes": [
+    {
+      "trait_type": "编号",
+      "value": "181"
+    },
+    {
+      "trait_type": "稀有度",
+      "value": "传说"
+    },
+    {
+      "trait_type": "五行",
+      "value": "Metal"
+    },
+    {
+      "trait_type": "背景",
+      "value": "极光绿"
+    },
+    {
+      "trait_type": "光晕",
+      "value": "金色圣辉"
+    },
+    {
+      "trait_type": "边框",
+      "value": "银色双线"
+    }
+  ]
+}
