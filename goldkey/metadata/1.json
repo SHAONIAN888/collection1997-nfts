@@ -1,0 +1,28 @@
+{
+  "name": "GOLDKEY 至尊 ULT#1",
+  "description": "GOLDKEY 至尊。GOLDKEY-BINANCE 系列，BNB Smart Chain。",
+  "image": "https://SHAONIAN888.github.io/collection1997-nfts/goldkey/images/ult/1.jpg",
+  "external_url": "https://SHAONIAN888.github.io/collection1997-nfts/goldkey",
+  "attributes": [
+    {
+      "trait_type": "稀有度",
+      "value": "至尊"
+    },
+    {
+      "trait_type": "系列",
+      "value": "GOLDKEY-BINANCE"
+    },
+    {
+      "trait_type": "编号",
+      "value": "ULT#1"
+    },
+    {
+      "trait_type": "五行",
+      "value": "WATER"
+    },
+    {
+      "trait_type": "Element",
+      "value": "WATER"
+    }
+  ]
+}
