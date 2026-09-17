@@ -5,20 +5,16 @@
   "external_url": "https://SHAONIAN888.github.io/collection1997-nfts/goldkey",
   "attributes": [
     {
-      "trait_type": "稀有度",
-      "value": "奥义"
+      "trait_type": "Rarity",
+      "value": "MYS"
     },
     {
-      "trait_type": "系列",
+      "trait_type": "Series",
       "value": "GOLDKEY-BINANCE"
     },
     {
-      "trait_type": "编号",
+      "trait_type": "Code",
       "value": "MYS#1"
-    },
-    {
-      "trait_type": "五行",
-      "value": "EARTH"
     },
     {
       "trait_type": "Element",
